@@ -1,18 +1,13 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="To Do" />
-
-  &#xa0;
-
-</div>
 
 <h1 align="center">To Do project</h1>
 
 <img src="/imgs/home.png">
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#sparkles">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/LuKezLima" target="_blank">Author</a>
 </p>
 
 <br>
