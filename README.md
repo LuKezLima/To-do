@@ -7,7 +7,7 @@
 
 <h1 align="center">To Do project</h1>
 
-
+<img src="/imgs/home.png">
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
